@@ -9,10 +9,10 @@
 
 ##Configuring Linux Web Servers </br>
 
-- [Screenshot of overall result]
-- [Lesson 1 screenshot]
-- [Lesson 2 screenshot]
-- [Lesson 3 screenshot]
+- [Screenshot of overall result](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/linux_server_overall.jpg)
+- [Lesson 1 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/linux_server_lesson1.jpg)
+- [Lesson 2 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/linux_server_lesson2.jpg)
+- [Lesson 3 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/linux_server_lesson3.jpg)
 
 ##Networking for Web Developers </br>
 
