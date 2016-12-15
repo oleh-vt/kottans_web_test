@@ -16,7 +16,9 @@
 
 ##Networking for Web Developers </br>
 
-- [Screenshot of overall result]
-- [Lesson 1 screenshot]
-- [Lesson 2 screenshot]
-- [Lesson 3 screenshot]
+- [Screenshot of overall result](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/networking_overall.jpg)
+- [Lesson 1 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/networking_1.jpg)
+- [Lesson 2 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/networking_2.jpg)
+- [Lesson 3 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/networking_3.jpg)
+- [Lesson 4 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/networking_4.jpg)
+- [Lesson 5 screenshot](https://github.com/oleh-vt/kottans_web_test/blob/master/task_1/networking_5.jpg)
